@@ -1,2 +1,2 @@
 # matrix-org-synapse
-my personal setup of synapse using docker compose
+sonal setup of synapse using docker compose
